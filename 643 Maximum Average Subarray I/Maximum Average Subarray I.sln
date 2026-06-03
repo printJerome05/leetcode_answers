@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Average Subarray I", "Maximum Average Subarray I\Maximum Average Subarray I.csproj", "{FFFE52CB-5114-4045-9D5C-686167CD3E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Number of Vowels in a Substring of Given Length", "..\1456 Maximum Number of Vowels in a Substring of Given Length\Maximum Number of Vowels in a Substring of Given Length\Maximum Number of Vowels in a Substring of Given Length.csproj", "{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFFE52CB-5114-4045-9D5C-686167CD3E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFE52CB-5114-4045-9D5C-686167CD3E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFE52CB-5114-4045-9D5C-686167CD3E98}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FFFE52CB-5114-4045-9D5C-686167CD3E98}.Debug|x64.Build.0 = Debug|Any CPU
+		{FFFE52CB-5114-4045-9D5C-686167CD3E98}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FFFE52CB-5114-4045-9D5C-686167CD3E98}.Debug|x86.Build.0 = Debug|Any CPU
+		{FFFE52CB-5114-4045-9D5C-686167CD3E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFE52CB-5114-4045-9D5C-686167CD3E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFE52CB-5114-4045-9D5C-686167CD3E98}.Release|x64.ActiveCfg = Release|Any CPU
+		{FFFE52CB-5114-4045-9D5C-686167CD3E98}.Release|x64.Build.0 = Release|Any CPU
+		{FFFE52CB-5114-4045-9D5C-686167CD3E98}.Release|x86.ActiveCfg = Release|Any CPU
+		{FFFE52CB-5114-4045-9D5C-686167CD3E98}.Release|x86.Build.0 = Release|Any CPU
+		{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}.Debug|x64.Build.0 = Debug|Any CPU
+		{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}.Debug|x86.Build.0 = Debug|Any CPU
+		{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}.Release|x64.ActiveCfg = Release|Any CPU
+		{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}.Release|x64.Build.0 = Release|Any CPU
+		{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}.Release|x86.ActiveCfg = Release|Any CPU
+		{D862A649-8DB8-4B6F-BE4D-A384EF3F9DEC}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

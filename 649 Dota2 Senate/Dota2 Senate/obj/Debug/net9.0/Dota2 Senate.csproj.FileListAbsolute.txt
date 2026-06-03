@@ -1,0 +1,14 @@
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\bin\Debug\net9.0\Dota2 Senate.exe
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\bin\Debug\net9.0\Dota2 Senate.deps.json
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\bin\Debug\net9.0\Dota2 Senate.runtimeconfig.json
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\bin\Debug\net9.0\Dota2 Senate.dll
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\bin\Debug\net9.0\Dota2 Senate.pdb
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\obj\Debug\net9.0\Dota2 Senate.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\obj\Debug\net9.0\Dota2 Senate.AssemblyInfoInputs.cache
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\obj\Debug\net9.0\Dota2 Senate.AssemblyInfo.cs
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\obj\Debug\net9.0\Dota2 Senate.csproj.CoreCompileInputs.cache
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\obj\Debug\net9.0\Dota2 Senate.dll
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\obj\Debug\net9.0\refint\Dota2 Senate.dll
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\obj\Debug\net9.0\Dota2 Senate.pdb
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\obj\Debug\net9.0\Dota2 Senate.genruntimeconfig.cache
+H:\LeetCode\649 Dota2 Senate\Dota2 Senate\obj\Debug\net9.0\ref\Dota2 Senate.dll

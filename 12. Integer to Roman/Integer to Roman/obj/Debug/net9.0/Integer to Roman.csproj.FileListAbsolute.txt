@@ -1,0 +1,14 @@
+H:\LeetCode\12. Integer to Roman\Integer to Roman\bin\Debug\net9.0\Integer to Roman.exe
+H:\LeetCode\12. Integer to Roman\Integer to Roman\bin\Debug\net9.0\Integer to Roman.deps.json
+H:\LeetCode\12. Integer to Roman\Integer to Roman\bin\Debug\net9.0\Integer to Roman.runtimeconfig.json
+H:\LeetCode\12. Integer to Roman\Integer to Roman\bin\Debug\net9.0\Integer to Roman.dll
+H:\LeetCode\12. Integer to Roman\Integer to Roman\bin\Debug\net9.0\Integer to Roman.pdb
+H:\LeetCode\12. Integer to Roman\Integer to Roman\obj\Debug\net9.0\Integer to Roman.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\12. Integer to Roman\Integer to Roman\obj\Debug\net9.0\Integer to Roman.AssemblyInfoInputs.cache
+H:\LeetCode\12. Integer to Roman\Integer to Roman\obj\Debug\net9.0\Integer to Roman.AssemblyInfo.cs
+H:\LeetCode\12. Integer to Roman\Integer to Roman\obj\Debug\net9.0\Integer to Roman.csproj.CoreCompileInputs.cache
+H:\LeetCode\12. Integer to Roman\Integer to Roman\obj\Debug\net9.0\Integer to Roman.dll
+H:\LeetCode\12. Integer to Roman\Integer to Roman\obj\Debug\net9.0\refint\Integer to Roman.dll
+H:\LeetCode\12. Integer to Roman\Integer to Roman\obj\Debug\net9.0\Integer to Roman.pdb
+H:\LeetCode\12. Integer to Roman\Integer to Roman\obj\Debug\net9.0\Integer to Roman.genruntimeconfig.cache
+H:\LeetCode\12. Integer to Roman\Integer to Roman\obj\Debug\net9.0\ref\Integer to Roman.dll

@@ -1,0 +1,14 @@
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\bin\Debug\net9.0\Kids With the Greatest Number of Candies.exe
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\bin\Debug\net9.0\Kids With the Greatest Number of Candies.deps.json
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\bin\Debug\net9.0\Kids With the Greatest Number of Candies.runtimeconfig.json
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\bin\Debug\net9.0\Kids With the Greatest Number of Candies.dll
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\bin\Debug\net9.0\Kids With the Greatest Number of Candies.pdb
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\net9.0\Kids With the Greatest Number of Candies.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\net9.0\Kids With the Greatest Number of Candies.AssemblyInfoInputs.cache
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\net9.0\Kids With the Greatest Number of Candies.AssemblyInfo.cs
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\net9.0\Kids With the Greatest Number of Candies.csproj.CoreCompileInputs.cache
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\net9.0\Kids With the Greatest Number of Candies.dll
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\net9.0\refint\Kids With the Greatest Number of Candies.dll
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\net9.0\Kids With the Greatest Number of Candies.pdb
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\net9.0\Kids With the Greatest Number of Candies.genruntimeconfig.cache
+H:\LeetCode\1431 Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\net9.0\ref\Kids With the Greatest Number of Candies.dll

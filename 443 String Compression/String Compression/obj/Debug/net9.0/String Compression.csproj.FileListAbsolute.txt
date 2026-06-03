@@ -1,0 +1,14 @@
+H:\LeetCode\443 String Compression\String Compression\bin\Debug\net9.0\String Compression.exe
+H:\LeetCode\443 String Compression\String Compression\bin\Debug\net9.0\String Compression.deps.json
+H:\LeetCode\443 String Compression\String Compression\bin\Debug\net9.0\String Compression.runtimeconfig.json
+H:\LeetCode\443 String Compression\String Compression\bin\Debug\net9.0\String Compression.dll
+H:\LeetCode\443 String Compression\String Compression\bin\Debug\net9.0\String Compression.pdb
+H:\LeetCode\443 String Compression\String Compression\obj\Debug\net9.0\String Compression.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\443 String Compression\String Compression\obj\Debug\net9.0\String Compression.AssemblyInfoInputs.cache
+H:\LeetCode\443 String Compression\String Compression\obj\Debug\net9.0\String Compression.AssemblyInfo.cs
+H:\LeetCode\443 String Compression\String Compression\obj\Debug\net9.0\String Compression.csproj.CoreCompileInputs.cache
+H:\LeetCode\443 String Compression\String Compression\obj\Debug\net9.0\String Compression.dll
+H:\LeetCode\443 String Compression\String Compression\obj\Debug\net9.0\refint\String Compression.dll
+H:\LeetCode\443 String Compression\String Compression\obj\Debug\net9.0\String Compression.pdb
+H:\LeetCode\443 String Compression\String Compression\obj\Debug\net9.0\String Compression.genruntimeconfig.cache
+H:\LeetCode\443 String Compression\String Compression\obj\Debug\net9.0\ref\String Compression.dll

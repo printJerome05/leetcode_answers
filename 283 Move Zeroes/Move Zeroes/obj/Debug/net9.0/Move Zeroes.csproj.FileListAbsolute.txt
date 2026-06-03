@@ -1,0 +1,14 @@
+H:\LeetCode\283 Move Zeroes\Move Zeroes\bin\Debug\net9.0\Move Zeroes.exe
+H:\LeetCode\283 Move Zeroes\Move Zeroes\bin\Debug\net9.0\Move Zeroes.deps.json
+H:\LeetCode\283 Move Zeroes\Move Zeroes\bin\Debug\net9.0\Move Zeroes.runtimeconfig.json
+H:\LeetCode\283 Move Zeroes\Move Zeroes\bin\Debug\net9.0\Move Zeroes.dll
+H:\LeetCode\283 Move Zeroes\Move Zeroes\bin\Debug\net9.0\Move Zeroes.pdb
+H:\LeetCode\283 Move Zeroes\Move Zeroes\obj\Debug\net9.0\Move Zeroes.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\283 Move Zeroes\Move Zeroes\obj\Debug\net9.0\Move Zeroes.AssemblyInfoInputs.cache
+H:\LeetCode\283 Move Zeroes\Move Zeroes\obj\Debug\net9.0\Move Zeroes.AssemblyInfo.cs
+H:\LeetCode\283 Move Zeroes\Move Zeroes\obj\Debug\net9.0\Move Zeroes.csproj.CoreCompileInputs.cache
+H:\LeetCode\283 Move Zeroes\Move Zeroes\obj\Debug\net9.0\Move Zeroes.dll
+H:\LeetCode\283 Move Zeroes\Move Zeroes\obj\Debug\net9.0\refint\Move Zeroes.dll
+H:\LeetCode\283 Move Zeroes\Move Zeroes\obj\Debug\net9.0\Move Zeroes.pdb
+H:\LeetCode\283 Move Zeroes\Move Zeroes\obj\Debug\net9.0\Move Zeroes.genruntimeconfig.cache
+H:\LeetCode\283 Move Zeroes\Move Zeroes\obj\Debug\net9.0\ref\Move Zeroes.dll

@@ -1,0 +1,14 @@
+H:\LeetCode\27 Remove Element\Remove Element\bin\Debug\net9.0\Remove Element.exe
+H:\LeetCode\27 Remove Element\Remove Element\bin\Debug\net9.0\Remove Element.deps.json
+H:\LeetCode\27 Remove Element\Remove Element\bin\Debug\net9.0\Remove Element.runtimeconfig.json
+H:\LeetCode\27 Remove Element\Remove Element\bin\Debug\net9.0\Remove Element.dll
+H:\LeetCode\27 Remove Element\Remove Element\bin\Debug\net9.0\Remove Element.pdb
+H:\LeetCode\27 Remove Element\Remove Element\obj\Debug\net9.0\Remove Element.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\27 Remove Element\Remove Element\obj\Debug\net9.0\Remove Element.AssemblyInfoInputs.cache
+H:\LeetCode\27 Remove Element\Remove Element\obj\Debug\net9.0\Remove Element.AssemblyInfo.cs
+H:\LeetCode\27 Remove Element\Remove Element\obj\Debug\net9.0\Remove Element.csproj.CoreCompileInputs.cache
+H:\LeetCode\27 Remove Element\Remove Element\obj\Debug\net9.0\Remove Element.dll
+H:\LeetCode\27 Remove Element\Remove Element\obj\Debug\net9.0\refint\Remove Element.dll
+H:\LeetCode\27 Remove Element\Remove Element\obj\Debug\net9.0\Remove Element.pdb
+H:\LeetCode\27 Remove Element\Remove Element\obj\Debug\net9.0\Remove Element.genruntimeconfig.cache
+H:\LeetCode\27 Remove Element\Remove Element\obj\Debug\net9.0\ref\Remove Element.dll

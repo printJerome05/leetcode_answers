@@ -1,0 +1,14 @@
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\bin\Debug\net9.0\Increasing Triplet Subsequence.exe
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\bin\Debug\net9.0\Increasing Triplet Subsequence.deps.json
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\bin\Debug\net9.0\Increasing Triplet Subsequence.runtimeconfig.json
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\bin\Debug\net9.0\Increasing Triplet Subsequence.dll
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\bin\Debug\net9.0\Increasing Triplet Subsequence.pdb
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\net9.0\Increasing Triplet Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\net9.0\Increasing Triplet Subsequence.AssemblyInfoInputs.cache
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\net9.0\Increasing Triplet Subsequence.AssemblyInfo.cs
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\net9.0\Increasing Triplet Subsequence.csproj.CoreCompileInputs.cache
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\net9.0\Increasing Triplet Subsequence.dll
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\net9.0\refint\Increasing Triplet Subsequence.dll
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\net9.0\Increasing Triplet Subsequence.pdb
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\net9.0\Increasing Triplet Subsequence.genruntimeconfig.cache
+H:\LeetCode\334 Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\net9.0\ref\Increasing Triplet Subsequence.dll

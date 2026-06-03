@@ -1,0 +1,14 @@
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\bin\Debug\net9.0\Reverse Vowels of a String.exe
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\bin\Debug\net9.0\Reverse Vowels of a String.deps.json
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\bin\Debug\net9.0\Reverse Vowels of a String.runtimeconfig.json
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\bin\Debug\net9.0\Reverse Vowels of a String.dll
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\bin\Debug\net9.0\Reverse Vowels of a String.pdb
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\net9.0\Reverse Vowels of a String.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\net9.0\Reverse Vowels of a String.AssemblyInfoInputs.cache
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\net9.0\Reverse Vowels of a String.AssemblyInfo.cs
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\net9.0\Reverse Vowels of a String.csproj.CoreCompileInputs.cache
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\net9.0\Reverse Vowels of a String.dll
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\net9.0\refint\Reverse Vowels of a String.dll
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\net9.0\Reverse Vowels of a String.pdb
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\net9.0\Reverse Vowels of a String.genruntimeconfig.cache
+H:\LeetCode\345 Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\net9.0\ref\Reverse Vowels of a String.dll

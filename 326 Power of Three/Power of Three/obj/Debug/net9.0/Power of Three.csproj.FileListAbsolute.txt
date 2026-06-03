@@ -1,0 +1,14 @@
+H:\LeetCode\326 Power of Three\Power of Three\bin\Debug\net9.0\Power of Three.exe
+H:\LeetCode\326 Power of Three\Power of Three\bin\Debug\net9.0\Power of Three.deps.json
+H:\LeetCode\326 Power of Three\Power of Three\bin\Debug\net9.0\Power of Three.runtimeconfig.json
+H:\LeetCode\326 Power of Three\Power of Three\bin\Debug\net9.0\Power of Three.dll
+H:\LeetCode\326 Power of Three\Power of Three\bin\Debug\net9.0\Power of Three.pdb
+H:\LeetCode\326 Power of Three\Power of Three\obj\Debug\net9.0\Power of Three.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\326 Power of Three\Power of Three\obj\Debug\net9.0\Power of Three.AssemblyInfoInputs.cache
+H:\LeetCode\326 Power of Three\Power of Three\obj\Debug\net9.0\Power of Three.AssemblyInfo.cs
+H:\LeetCode\326 Power of Three\Power of Three\obj\Debug\net9.0\Power of Three.csproj.CoreCompileInputs.cache
+H:\LeetCode\326 Power of Three\Power of Three\obj\Debug\net9.0\Power of Three.dll
+H:\LeetCode\326 Power of Three\Power of Three\obj\Debug\net9.0\refint\Power of Three.dll
+H:\LeetCode\326 Power of Three\Power of Three\obj\Debug\net9.0\Power of Three.pdb
+H:\LeetCode\326 Power of Three\Power of Three\obj\Debug\net9.0\Power of Three.genruntimeconfig.cache
+H:\LeetCode\326 Power of Three\Power of Three\obj\Debug\net9.0\ref\Power of Three.dll

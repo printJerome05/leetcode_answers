@@ -1,0 +1,14 @@
+H:\LeetCode\66 Plus One\Plus One\bin\Debug\net9.0\Plus One.exe
+H:\LeetCode\66 Plus One\Plus One\bin\Debug\net9.0\Plus One.deps.json
+H:\LeetCode\66 Plus One\Plus One\bin\Debug\net9.0\Plus One.runtimeconfig.json
+H:\LeetCode\66 Plus One\Plus One\bin\Debug\net9.0\Plus One.dll
+H:\LeetCode\66 Plus One\Plus One\bin\Debug\net9.0\Plus One.pdb
+H:\LeetCode\66 Plus One\Plus One\obj\Debug\net9.0\Plus One.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\66 Plus One\Plus One\obj\Debug\net9.0\Plus One.AssemblyInfoInputs.cache
+H:\LeetCode\66 Plus One\Plus One\obj\Debug\net9.0\Plus One.AssemblyInfo.cs
+H:\LeetCode\66 Plus One\Plus One\obj\Debug\net9.0\Plus One.csproj.CoreCompileInputs.cache
+H:\LeetCode\66 Plus One\Plus One\obj\Debug\net9.0\Plus One.dll
+H:\LeetCode\66 Plus One\Plus One\obj\Debug\net9.0\refint\Plus One.dll
+H:\LeetCode\66 Plus One\Plus One\obj\Debug\net9.0\Plus One.pdb
+H:\LeetCode\66 Plus One\Plus One\obj\Debug\net9.0\Plus One.genruntimeconfig.cache
+H:\LeetCode\66 Plus One\Plus One\obj\Debug\net9.0\ref\Plus One.dll

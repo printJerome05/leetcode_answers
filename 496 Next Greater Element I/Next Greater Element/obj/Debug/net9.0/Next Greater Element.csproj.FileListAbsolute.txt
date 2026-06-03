@@ -1,0 +1,14 @@
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\bin\Debug\net9.0\Next Greater Element.exe
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\bin\Debug\net9.0\Next Greater Element.deps.json
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\bin\Debug\net9.0\Next Greater Element.runtimeconfig.json
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\bin\Debug\net9.0\Next Greater Element.dll
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\bin\Debug\net9.0\Next Greater Element.pdb
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\obj\Debug\net9.0\Next Greater Element.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\obj\Debug\net9.0\Next Greater Element.AssemblyInfoInputs.cache
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\obj\Debug\net9.0\Next Greater Element.AssemblyInfo.cs
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\obj\Debug\net9.0\Next Greater Element.csproj.CoreCompileInputs.cache
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\obj\Debug\net9.0\Next Greater Element.dll
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\obj\Debug\net9.0\refint\Next Greater Element.dll
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\obj\Debug\net9.0\Next Greater Element.pdb
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\obj\Debug\net9.0\Next Greater Element.genruntimeconfig.cache
+H:\LeetCode\496 Next Greater Element I\Next Greater Element\obj\Debug\net9.0\ref\Next Greater Element.dll

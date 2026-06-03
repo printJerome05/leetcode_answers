@@ -1,0 +1,14 @@
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\bin\Debug\net9.0\Sqrt(x).exe
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\bin\Debug\net9.0\Sqrt(x).deps.json
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\bin\Debug\net9.0\Sqrt(x).runtimeconfig.json
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\bin\Debug\net9.0\Sqrt(x).dll
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\bin\Debug\net9.0\Sqrt(x).pdb
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\obj\Debug\net9.0\Sqrt(x).GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\obj\Debug\net9.0\Sqrt(x).AssemblyInfoInputs.cache
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\obj\Debug\net9.0\Sqrt(x).AssemblyInfo.cs
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\obj\Debug\net9.0\Sqrt(x).csproj.CoreCompileInputs.cache
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\obj\Debug\net9.0\Sqrt(x).dll
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\obj\Debug\net9.0\refint\Sqrt(x).dll
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\obj\Debug\net9.0\Sqrt(x).pdb
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\obj\Debug\net9.0\Sqrt(x).genruntimeconfig.cache
+H:\LeetCode\69 Sqrt(x)\Sqrt(x)\obj\Debug\net9.0\ref\Sqrt(x).dll

@@ -1,0 +1,14 @@
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\bin\Debug\net9.0\Can Place Flowers.exe
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\bin\Debug\net9.0\Can Place Flowers.deps.json
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\bin\Debug\net9.0\Can Place Flowers.runtimeconfig.json
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\bin\Debug\net9.0\Can Place Flowers.dll
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\bin\Debug\net9.0\Can Place Flowers.pdb
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\obj\Debug\net9.0\Can Place Flowers.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\obj\Debug\net9.0\Can Place Flowers.AssemblyInfoInputs.cache
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\obj\Debug\net9.0\Can Place Flowers.AssemblyInfo.cs
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\obj\Debug\net9.0\Can Place Flowers.csproj.CoreCompileInputs.cache
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\obj\Debug\net9.0\Can Place Flowers.dll
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\obj\Debug\net9.0\refint\Can Place Flowers.dll
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\obj\Debug\net9.0\Can Place Flowers.pdb
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\obj\Debug\net9.0\Can Place Flowers.genruntimeconfig.cache
+H:\LeetCode\605 Can Place Flowers\Can Place Flowers\obj\Debug\net9.0\ref\Can Place Flowers.dll

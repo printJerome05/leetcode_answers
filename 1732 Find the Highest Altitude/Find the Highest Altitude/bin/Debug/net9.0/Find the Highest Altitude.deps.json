@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Find the Highest Altitude/1.0.0": {
+        "runtime": {
+          "Find the Highest Altitude.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find the Highest Altitude/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

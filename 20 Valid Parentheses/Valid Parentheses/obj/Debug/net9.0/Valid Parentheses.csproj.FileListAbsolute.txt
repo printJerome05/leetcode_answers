@@ -1,0 +1,14 @@
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\bin\Debug\net9.0\Valid Parentheses.exe
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\bin\Debug\net9.0\Valid Parentheses.deps.json
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\bin\Debug\net9.0\Valid Parentheses.runtimeconfig.json
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\bin\Debug\net9.0\Valid Parentheses.dll
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\bin\Debug\net9.0\Valid Parentheses.pdb
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\obj\Debug\net9.0\Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\obj\Debug\net9.0\Valid Parentheses.AssemblyInfoInputs.cache
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\obj\Debug\net9.0\Valid Parentheses.AssemblyInfo.cs
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\obj\Debug\net9.0\Valid Parentheses.csproj.CoreCompileInputs.cache
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\obj\Debug\net9.0\Valid Parentheses.dll
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\obj\Debug\net9.0\refint\Valid Parentheses.dll
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\obj\Debug\net9.0\Valid Parentheses.pdb
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\obj\Debug\net9.0\Valid Parentheses.genruntimeconfig.cache
+H:\LeetCode\20 Valid Parentheses\Valid Parentheses\obj\Debug\net9.0\ref\Valid Parentheses.dll

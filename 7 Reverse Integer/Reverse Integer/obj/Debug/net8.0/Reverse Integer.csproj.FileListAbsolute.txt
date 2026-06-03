@@ -1,0 +1,14 @@
+H:\LeetCode\7 Reverse Integer\Reverse Integer\bin\Debug\net8.0\Reverse Integer.exe
+H:\LeetCode\7 Reverse Integer\Reverse Integer\bin\Debug\net8.0\Reverse Integer.deps.json
+H:\LeetCode\7 Reverse Integer\Reverse Integer\bin\Debug\net8.0\Reverse Integer.runtimeconfig.json
+H:\LeetCode\7 Reverse Integer\Reverse Integer\bin\Debug\net8.0\Reverse Integer.dll
+H:\LeetCode\7 Reverse Integer\Reverse Integer\bin\Debug\net8.0\Reverse Integer.pdb
+H:\LeetCode\7 Reverse Integer\Reverse Integer\obj\Debug\net8.0\Reverse Integer.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\7 Reverse Integer\Reverse Integer\obj\Debug\net8.0\Reverse Integer.AssemblyInfoInputs.cache
+H:\LeetCode\7 Reverse Integer\Reverse Integer\obj\Debug\net8.0\Reverse Integer.AssemblyInfo.cs
+H:\LeetCode\7 Reverse Integer\Reverse Integer\obj\Debug\net8.0\Reverse Integer.csproj.CoreCompileInputs.cache
+H:\LeetCode\7 Reverse Integer\Reverse Integer\obj\Debug\net8.0\Reverse Integer.dll
+H:\LeetCode\7 Reverse Integer\Reverse Integer\obj\Debug\net8.0\refint\Reverse Integer.dll
+H:\LeetCode\7 Reverse Integer\Reverse Integer\obj\Debug\net8.0\Reverse Integer.pdb
+H:\LeetCode\7 Reverse Integer\Reverse Integer\obj\Debug\net8.0\Reverse Integer.genruntimeconfig.cache
+H:\LeetCode\7 Reverse Integer\Reverse Integer\obj\Debug\net8.0\ref\Reverse Integer.dll

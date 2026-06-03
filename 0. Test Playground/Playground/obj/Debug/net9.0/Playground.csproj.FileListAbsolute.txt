@@ -1,0 +1,14 @@
+H:\LeetCode\0. Test Playground\Playground\bin\Debug\net9.0\Playground.exe
+H:\LeetCode\0. Test Playground\Playground\bin\Debug\net9.0\Playground.deps.json
+H:\LeetCode\0. Test Playground\Playground\bin\Debug\net9.0\Playground.runtimeconfig.json
+H:\LeetCode\0. Test Playground\Playground\bin\Debug\net9.0\Playground.dll
+H:\LeetCode\0. Test Playground\Playground\bin\Debug\net9.0\Playground.pdb
+H:\LeetCode\0. Test Playground\Playground\obj\Debug\net9.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\0. Test Playground\Playground\obj\Debug\net9.0\Playground.AssemblyInfoInputs.cache
+H:\LeetCode\0. Test Playground\Playground\obj\Debug\net9.0\Playground.AssemblyInfo.cs
+H:\LeetCode\0. Test Playground\Playground\obj\Debug\net9.0\Playground.csproj.CoreCompileInputs.cache
+H:\LeetCode\0. Test Playground\Playground\obj\Debug\net9.0\Playground.dll
+H:\LeetCode\0. Test Playground\Playground\obj\Debug\net9.0\refint\Playground.dll
+H:\LeetCode\0. Test Playground\Playground\obj\Debug\net9.0\Playground.pdb
+H:\LeetCode\0. Test Playground\Playground\obj\Debug\net9.0\Playground.genruntimeconfig.cache
+H:\LeetCode\0. Test Playground\Playground\obj\Debug\net9.0\ref\Playground.dll

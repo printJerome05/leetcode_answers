@@ -1,0 +1,14 @@
+H:\LeetCode\392 Is Subsequence\Is Subsequence\bin\Debug\net9.0\Is Subsequence.exe
+H:\LeetCode\392 Is Subsequence\Is Subsequence\bin\Debug\net9.0\Is Subsequence.deps.json
+H:\LeetCode\392 Is Subsequence\Is Subsequence\bin\Debug\net9.0\Is Subsequence.runtimeconfig.json
+H:\LeetCode\392 Is Subsequence\Is Subsequence\bin\Debug\net9.0\Is Subsequence.dll
+H:\LeetCode\392 Is Subsequence\Is Subsequence\bin\Debug\net9.0\Is Subsequence.pdb
+H:\LeetCode\392 Is Subsequence\Is Subsequence\obj\Debug\net9.0\Is Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\392 Is Subsequence\Is Subsequence\obj\Debug\net9.0\Is Subsequence.AssemblyInfoInputs.cache
+H:\LeetCode\392 Is Subsequence\Is Subsequence\obj\Debug\net9.0\Is Subsequence.AssemblyInfo.cs
+H:\LeetCode\392 Is Subsequence\Is Subsequence\obj\Debug\net9.0\Is Subsequence.csproj.CoreCompileInputs.cache
+H:\LeetCode\392 Is Subsequence\Is Subsequence\obj\Debug\net9.0\Is Subsequence.dll
+H:\LeetCode\392 Is Subsequence\Is Subsequence\obj\Debug\net9.0\refint\Is Subsequence.dll
+H:\LeetCode\392 Is Subsequence\Is Subsequence\obj\Debug\net9.0\Is Subsequence.pdb
+H:\LeetCode\392 Is Subsequence\Is Subsequence\obj\Debug\net9.0\Is Subsequence.genruntimeconfig.cache
+H:\LeetCode\392 Is Subsequence\Is Subsequence\obj\Debug\net9.0\ref\Is Subsequence.dll

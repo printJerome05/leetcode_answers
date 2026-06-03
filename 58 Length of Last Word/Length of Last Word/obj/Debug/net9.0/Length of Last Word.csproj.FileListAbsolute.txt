@@ -1,0 +1,14 @@
+H:\LeetCode\58 Length of Last Word\Length of Last Word\bin\Debug\net9.0\Length of Last Word.exe
+H:\LeetCode\58 Length of Last Word\Length of Last Word\bin\Debug\net9.0\Length of Last Word.deps.json
+H:\LeetCode\58 Length of Last Word\Length of Last Word\bin\Debug\net9.0\Length of Last Word.runtimeconfig.json
+H:\LeetCode\58 Length of Last Word\Length of Last Word\bin\Debug\net9.0\Length of Last Word.dll
+H:\LeetCode\58 Length of Last Word\Length of Last Word\bin\Debug\net9.0\Length of Last Word.pdb
+H:\LeetCode\58 Length of Last Word\Length of Last Word\obj\Debug\net9.0\Length of Last Word.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\58 Length of Last Word\Length of Last Word\obj\Debug\net9.0\Length of Last Word.AssemblyInfoInputs.cache
+H:\LeetCode\58 Length of Last Word\Length of Last Word\obj\Debug\net9.0\Length of Last Word.AssemblyInfo.cs
+H:\LeetCode\58 Length of Last Word\Length of Last Word\obj\Debug\net9.0\Length of Last Word.csproj.CoreCompileInputs.cache
+H:\LeetCode\58 Length of Last Word\Length of Last Word\obj\Debug\net9.0\Length of Last Word.dll
+H:\LeetCode\58 Length of Last Word\Length of Last Word\obj\Debug\net9.0\refint\Length of Last Word.dll
+H:\LeetCode\58 Length of Last Word\Length of Last Word\obj\Debug\net9.0\Length of Last Word.pdb
+H:\LeetCode\58 Length of Last Word\Length of Last Word\obj\Debug\net9.0\Length of Last Word.genruntimeconfig.cache
+H:\LeetCode\58 Length of Last Word\Length of Last Word\obj\Debug\net9.0\ref\Length of Last Word.dll

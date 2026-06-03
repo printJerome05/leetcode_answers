@@ -1,0 +1,14 @@
+H:\LeetCode\136 Single Number\Single Number\bin\Debug\net9.0\Single Number.exe
+H:\LeetCode\136 Single Number\Single Number\bin\Debug\net9.0\Single Number.deps.json
+H:\LeetCode\136 Single Number\Single Number\bin\Debug\net9.0\Single Number.runtimeconfig.json
+H:\LeetCode\136 Single Number\Single Number\bin\Debug\net9.0\Single Number.dll
+H:\LeetCode\136 Single Number\Single Number\bin\Debug\net9.0\Single Number.pdb
+H:\LeetCode\136 Single Number\Single Number\obj\Debug\net9.0\Single Number.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\136 Single Number\Single Number\obj\Debug\net9.0\Single Number.AssemblyInfoInputs.cache
+H:\LeetCode\136 Single Number\Single Number\obj\Debug\net9.0\Single Number.AssemblyInfo.cs
+H:\LeetCode\136 Single Number\Single Number\obj\Debug\net9.0\Single Number.csproj.CoreCompileInputs.cache
+H:\LeetCode\136 Single Number\Single Number\obj\Debug\net9.0\Single Number.dll
+H:\LeetCode\136 Single Number\Single Number\obj\Debug\net9.0\refint\Single Number.dll
+H:\LeetCode\136 Single Number\Single Number\obj\Debug\net9.0\Single Number.pdb
+H:\LeetCode\136 Single Number\Single Number\obj\Debug\net9.0\Single Number.genruntimeconfig.cache
+H:\LeetCode\136 Single Number\Single Number\obj\Debug\net9.0\ref\Single Number.dll

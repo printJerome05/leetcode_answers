@@ -1,0 +1,14 @@
+H:\LeetCode\242 Valid Anagram\Valid Anagram\bin\Debug\net9.0\Valid Anagram.exe
+H:\LeetCode\242 Valid Anagram\Valid Anagram\bin\Debug\net9.0\Valid Anagram.deps.json
+H:\LeetCode\242 Valid Anagram\Valid Anagram\bin\Debug\net9.0\Valid Anagram.runtimeconfig.json
+H:\LeetCode\242 Valid Anagram\Valid Anagram\bin\Debug\net9.0\Valid Anagram.dll
+H:\LeetCode\242 Valid Anagram\Valid Anagram\bin\Debug\net9.0\Valid Anagram.pdb
+H:\LeetCode\242 Valid Anagram\Valid Anagram\obj\Debug\net9.0\Valid Anagram.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\242 Valid Anagram\Valid Anagram\obj\Debug\net9.0\Valid Anagram.AssemblyInfoInputs.cache
+H:\LeetCode\242 Valid Anagram\Valid Anagram\obj\Debug\net9.0\Valid Anagram.AssemblyInfo.cs
+H:\LeetCode\242 Valid Anagram\Valid Anagram\obj\Debug\net9.0\Valid Anagram.csproj.CoreCompileInputs.cache
+H:\LeetCode\242 Valid Anagram\Valid Anagram\obj\Debug\net9.0\Valid Anagram.dll
+H:\LeetCode\242 Valid Anagram\Valid Anagram\obj\Debug\net9.0\refint\Valid Anagram.dll
+H:\LeetCode\242 Valid Anagram\Valid Anagram\obj\Debug\net9.0\Valid Anagram.pdb
+H:\LeetCode\242 Valid Anagram\Valid Anagram\obj\Debug\net9.0\Valid Anagram.genruntimeconfig.cache
+H:\LeetCode\242 Valid Anagram\Valid Anagram\obj\Debug\net9.0\ref\Valid Anagram.dll

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\LeetCode\\605 Can Place Flowers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC141B-B870-44A0-8B4F-9AD9E9E74645}|Can Place Flowers\\Can Place Flowers.csproj|h:\\leetcode\\605 can place flowers\\can place flowers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AC141B-B870-44A0-8B4F-9AD9E9E74645}|Can Place Flowers\\Can Place Flowers.csproj|solutionrelative:can place flowers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\LeetCode\\605 Can Place Flowers\\Can Place Flowers\\Program.cs",
+              "RelativeDocumentMoniker": "Can Place Flowers\\Program.cs",
+              "ToolTip": "H:\\LeetCode\\605 Can Place Flowers\\Can Place Flowers\\Program.cs",
+              "RelativeToolTip": "Can Place Flowers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:07:56.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 91,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
